@@ -1,5 +1,5 @@
 {
-    "name": "rafaelqueiroz/cakephp-cart",
+    "name": "tmbdevelopment/cakephp-cart",
     "description": "Cart plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
