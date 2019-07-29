@@ -2,6 +2,12 @@
     "name": "tmbdevelopment/cakephp-cart",
     "description": "Cart plugin for CakePHP",
     "type": "cakephp-plugin",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:ThinkTMB/cakephp-cart.git"
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "cakephp/cakephp": ">=3.3.2 <4.0.0"
